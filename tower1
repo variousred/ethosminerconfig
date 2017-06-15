@@ -11,6 +11,6 @@ globalfan 85
 globalminer sgminer-gm
 
 loc 9e8d4d twr1
-cor 9e8d4d 1230 1380 1380
-mem 9e8d4d 1650 1750 1750
+cor 9e8d4d 1180 1380 1380
+mem 9e8d4d 2000 1750 1750
 pwr 9e8d4d 7
