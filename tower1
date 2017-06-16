@@ -7,7 +7,6 @@ proxypool2 useast.alpereum.ch:3002
 poolpass1 x
 poolpass2 x
 
-globalfan 85
 globalminer sgminer-gm
 
 loc 90167c twr1
@@ -17,5 +16,6 @@ cor 90167c 1180 1380 1380 1291
 mem 90167c 2000 2000 2000 1750
 pwr 90167c 7
 
+# globalfan 85
 # last fan is the armor card which can overheat so i turned the fan up
 fan 90167 85 85 85 90
