@@ -1,4 +1,3 @@
-#config from thx
 maxgputemp 85
 stratumproxy enabled
 proxywallet 0x42593b745b20f03d36137b6e417c222c1b0fe1a8
@@ -11,16 +10,10 @@ globalminer sgminer-gm
 
 loc 90167c twr1
 
-# defaults for cor — 1380 1380 1291 1230 1266
 cor 90167c 1380 1380 1291 1180 1266
 
-#mem 90167c 2000 1750 1750
-# samsung is up to speed now, seeing if i cant get the 580s up to speed 
-#defaults for mem — 1750 1750 1750 1650 1750
-mem 90167c 2000 2000 2000 2000 2000
+mem 90167c 1750 1750 2000 2000 2000
 
 pwr 90167c 7
 
-# globalfan 85
-# last fan is the armor card which can overheat so i turned the fan up
 fan 90167c 85 85 85 90 85
