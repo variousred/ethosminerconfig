@@ -10,12 +10,17 @@ poolpass2 x
 globalminer sgminer-gm
 
 loc 90167c twr1
-cor 90167c 1180 1380 1380 1291
+
+# defaults for cor — 1380 1380 1291 1230 1266
+cor 90167c 1380 1380 1291 1230 1266
+
 #mem 90167c 2000 1750 1750
 # samsung is up to speed now, seeing if i cant get the 580s up to speed 
-mem 90167c 2000 2000 2000 1750
+#defaults for mem — 1750 1750 1750 1650 1750
+mem 90167c 2000 2000 2000 1750 2000
+
 pwr 90167c 7
 
 # globalfan 85
 # last fan is the armor card which can overheat so i turned the fan up
-fan 90167 85 85 85 90
+fan 90167c 85 85 85 90 85
