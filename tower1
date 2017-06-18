@@ -12,7 +12,7 @@ globalminer sgminer-gm
 loc 90167c twr1
 
 # defaults for cor — 1380 1380 1291 1230 1266
-cor 90167c 1380 1380 1291 1230 1266
+cor 90167c 1380 1380 1291 1180 1266
 
 #mem 90167c 2000 1750 1750
 # samsung is up to speed now, seeing if i cant get the 580s up to speed 
