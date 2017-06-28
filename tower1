@@ -10,12 +10,12 @@ globalminer sgminer-gm
 
 loc 90167c twr1
 
-cor 90167c 1380 1380 1230 1291 1266 1100
+cor 90167c 1380 1380 1230 1281 1266 1100
 
 # the below is the setting when machien was locking up
 #mem 90167c 2000 2000 2000 2000 2000 2000
 #going to try lowering all the 2ks to 1900
-mem 90167c 1900 1900 1900 1900 1900 1900
+mem 90167c 1950 1950 1900 1900 1900 1900
 
 pwr 90167c 7
 
