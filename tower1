@@ -3,13 +3,15 @@ maxgputemp 85
 stratumproxy enabled
 proxywallet 0x42593b745b20f03d36137b6e417c222c1b0fe1a8
 proxypool1 us1.ethermine.org:4444
-proxypool2 eu1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
 poolpass1 x
 poolpass2 x
 
 globalminer sgminer-gm
 
 loc 90167c twr1
+
+flg --cl-global-work 8192 --farm-recheck 200
 
 cor 90167c 1380 1380 1230 1250 1291 1266 1310
 
@@ -18,6 +20,6 @@ cor 90167c 1380 1380 1230 1250 1291 1266 1310
 #going to try lowering all the 2ks to 1900
 mem 90167c 1950 1950 1900 1900 1900 2000 2000
 
-pwr 90167c 7
+pwr 90167c 5
 
 fan 90167c 85 85 85 95 85 85 85
