@@ -18,6 +18,6 @@ flg --cl-global-work 8192 --farm-recheck 200
 cor 90c2f8 1180 
 mem 90c2f8 2000 
 
-pwr 90c2f8 6
+pwr 90c2f8 6 6 6 6
 
-fan 90c2f8 90
+fan 90c2f8 90 90 90 90
