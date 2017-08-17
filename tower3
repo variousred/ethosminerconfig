@@ -1,0 +1,23 @@
+custompanel variousred47
+maxgputemp 85
+stratumproxy enabled
+proxywallet 0x42593b745b20f03d36137b6e417c222c1b0fe1a8
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
+poolpass1 x
+poolpass2 x
+
+globalminer sgminer-gm
+
+loc 40e852 twr3
+
+flg --cl-global-work 8192 --farm-recheck 200
+# sling00 you need to use around ~1180 for core for eth
+# Ravec> Wolfrig: If you want ''non oc'' clocks, set them to 1100/2000 and you will pretty much guarantee stability
+
+cor 40e852 1180 
+mem 40e852 2000 
+
+pwr 40e852 6
+
+fan 40e852 90
