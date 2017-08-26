@@ -18,6 +18,6 @@ flg --cl-global-work 8192 --farm-recheck 200
 cor 40e852 1180 
 mem 40e852 2000 
 
-pwr 40e852 6 6
+pwr 40e852 6 6 6 6
 
-fan 40e852 90 90
+fan 40e852 90 90 90 90
