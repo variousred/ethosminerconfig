@@ -15,10 +15,10 @@ flg --cl-global-work 8192 --farm-recheck 200
 # sling00 you need to use around ~1180 for core for eth
 # Ravec> Wolfrig: If you want ''non oc'' clocks, set them to 1100/2000 and you will pretty much guarantee stability
 
-cor 90167c 1380 1180 1200 1100 1100 1100 1100
+cor 90167c 1380 1180 1200 1100 1100 1100 1100 1180
 
-mem 90167c 2000 2000 2000 2000 2000 2000 2000
+mem 90167c 2000 2000 2000 2000 2000 2000 2000 2000
 
 pwr 90167c 6
 
-fan 90167c 85 85 85 85 95 95 95
+fan 90167c 85 85 85 85 95 95 95 90
