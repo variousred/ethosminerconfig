@@ -12,8 +12,6 @@ globalminer sgminer-gm
 loc 90c2f8 twr2
 
 flg --cl-global-work 8192 --farm-recheck 200
-# sling00 you need to use around ~1180 for core for eth
-# Ravec> Wolfrig: If you want ''non oc'' clocks, set them to 1100/2000 and you will pretty much guarantee stability
 
 cor 90c2f8 1180 1180 1180 1180
 mem 90c2f8 2150 2150 2150 2150
