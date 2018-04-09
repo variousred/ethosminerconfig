@@ -13,8 +13,8 @@ loc 90c2f8 twr2
 
 flg --cl-global-work 8192 --farm-recheck 200
 
-mem 90c2f8 2000
-globalpowertune 7
-fan 90c2f8 90 90 90 90
+#mem 90c2f8 2000
+#globalpowertune 7
+#fan 90c2f8 90 90 90 90
 
 
