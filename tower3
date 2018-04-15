@@ -16,7 +16,8 @@ flg --cl-global-work 8192 --farm-recheck 200
 # Ravec> Wolfrig: If you want ''non oc'' clocks, set them to 1100/2000 and you will pretty much guarantee stability
 
 cor 40e852 1148 
-mem 40e852 1700 
+#mem 40e852 1700 -got me 23.46
+mem 40e852 1710 
 
 pwr 40e852 6 6 6 6
 
