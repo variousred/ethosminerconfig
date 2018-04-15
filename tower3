@@ -18,7 +18,8 @@ flg --cl-global-work 8192 --farm-recheck 200
 cor 40e852 1148 
 #mem 40e852 1700 -got me 23.46
 #mem 40e852 1710 -got me 23.46
-mem 40e852 1720 1720 1720 1720
+#mem 40e852 1720 1720 1720 1720 - got me 23.63
+mem 40e852 1730 1730 1730 1730
 
 pwr 40e852 6 6 6 6
 
