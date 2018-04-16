@@ -20,3 +20,5 @@ flg --cl-global-work 8192 --farm-recheck 200
 cor 90c2f8 1190 1190 1190 1190
 mem 90c2f8 2000 2000 2000 2000
 pwr 90c2f8 6 6 6 6 
+
+#
