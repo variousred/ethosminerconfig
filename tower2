@@ -17,6 +17,6 @@ flg --cl-global-work 8192 --farm-recheck 200
 #globalpowertune 7
 #fan 90c2f8 90 90 90 90
 
-cor 40e852 1190 1190 1190 1190
-mem 40e852 2000 2000 2000 2000
-pwr 40e852 6 6 6 6 
+cor 90c2f8 1190 1190 1190 1190
+mem 90c2f8 2000 2000 2000 2000
+pwr 90c2f8 6 6 6 6 
