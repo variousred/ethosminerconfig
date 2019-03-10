@@ -7,6 +7,7 @@ maxgputemp 85
 stratumproxy miner
 proxywallet znbfZD1bjqU2vhYcJhHF6YoLbgq9fByn2wi
 proxypool1 ssl://us-east.equihash-hub.miningpoolhub.com:20594
+proxypool2 ssl://europe.equihash-hub.miningpoolhub.com:20594
 flags -zwal mininpooluser1.twr1 -zpsw x
 globalfan 85
 
