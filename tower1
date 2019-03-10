@@ -5,10 +5,10 @@ miner 90167c claymore-zcash
 
 maxgputemp 85
 stratumproxy miner
-proxywallet znbfZD1bjqU2vhYcJhHF6YoLbgq9fByn2wi
+# proxywallet znbfZD1bjqU2vhYcJhHF6YoLbgq9fByn2wi
 proxypool1 ssl://us-east.equihash-hub.miningpoolhub.com:20594
 proxypool2 ssl://europe.equihash-hub.miningpoolhub.com:20594
-flg 90167c -zwal mininpooluser1.twr1:x -zpsw x
+flg 90167c -zwal miningpooluser1.twr1:x -zpsw x
 globalfan 85
 
 #cor 90167c 1180 1180 1180 1180 1180 1180 1180
